@@ -2,8 +2,8 @@ require 'pusher'
 
 Pusher.logger = Rails.logger
 Pusher.key = "765ec374ae0a69f4ce44"
-Pusher.app_id = "wqew"
-Pusher.secret = "wuguanghai"
+Pusher.app_id = "111"
+Pusher.secret = "123456"
 Pusher.host = '127.0.0.1'
 Pusher.port = 4567
 
